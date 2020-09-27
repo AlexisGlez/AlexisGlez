@@ -8,7 +8,7 @@ Here are some things about myself:
 
 🔭 I’m currently working at Microsoft
 
-🌱 I’m currently learning ways to become a better software engineer as a whole (clean code/architecture, design patterns, all kinds of testing, and so on 🔥).
+🌱 I’m currently learning new ways to become a better software engineer as a whole (clean code/architecture, design patterns, all kinds of testing, and so on 🔥).
 
 ⚡ Fun fact: In my free time, I like to train calisthenics. I'm still a rookie, but someday I'll be able to do some amazing movements 😎
 
