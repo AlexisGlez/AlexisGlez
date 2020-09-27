@@ -1,4 +1,4 @@
-### Hi there, I'm AlexisGlez 👋
+### Hi there, I'm AlexisGlez 👋🏻 👨🏻‍💻
 
 [![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https%3A%2F%2Falexisglez.netlify.com)][website]
 
@@ -21,6 +21,8 @@ Here are some things about myself:
 <br />
 
 ### Languages and Tools:
+
+\* <sub><sup>(at least some of them, as I didn't find more icons 😅)</sup></sub>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
