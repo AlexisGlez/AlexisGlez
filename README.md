@@ -22,7 +22,7 @@ Here are some things about myself:
 
 ### Languages and Tools:
 
-\* <sub><sup>(at least some of them, as I didn't find more icons 😅)</sup></sub>
+<sub><sup>(at least some of them, as I didn't find more icons 😅🤣)</sup></sub>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -52,13 +52,11 @@ Here are some things about myself:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br />
-<br />
-<br />
+<br clear="left" />
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 My Latest Blogs
 
 ➡️ [More blogs here][my-blogs]
 
