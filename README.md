@@ -58,6 +58,8 @@ Here are some things about myself:
 
 ### 📕 My Latest Blogs
 
+<!-- My Blogs go here -->
+
 ➡️ [More blogs here][my-blogs]
 
 ---
