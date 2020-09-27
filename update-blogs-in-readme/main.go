@@ -22,14 +22,14 @@ func main() {
 
 	// Get latests blogs
 	var blogs bytes.Buffer
-	for i := 0; i < 5; i++ {
+	for i := 0; i < 3; i++ {
 		rssItem := feed.Items[i]
 		blogs.WriteString("- [" + rssItem.Title + "](" + rssItem.Link + ")\n")
 	}
 
-	date := time.Now().Format("1 Jan 2000")
-	updated := "Last updated on " + date + "."
-	blogs.WriteString(updated + "\n")
+	date := time.Now().Format("2 Jan 2006")
+	updated := "_Last updated on " + date + "._"
+	blogs.WriteString("\n<br />" + updated + "<br />\n")
 
 	// Read original README
 	content, err := ioutil.ReadFile("originalReadme.md")
