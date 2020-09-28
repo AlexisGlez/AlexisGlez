@@ -58,7 +58,12 @@ Here are some things about myself:
 
 ### 📕 My Latest Blogs
 
-<!-- My Blogs go here -->
+- [Architecture Patterns vs Architectural Styles](https://alexisglez.netlify.app/blogs/architecture-patterns-vs-architectural-styles)
+- [Building Scalable Systems](https://alexisglez.netlify.app/blogs/building-scalable-systems)
+- [But... what is this unicode thing](https://alexisglez.netlify.app/blogs/but-what-is-this-unicode-thing)
+
+<br />_Last updated on 27 Sep 2020._<br />
+
 
 ➡️ [More blogs here][my-blogs]
 
