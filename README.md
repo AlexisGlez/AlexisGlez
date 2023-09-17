@@ -62,7 +62,7 @@ Here are some things about myself:
 - [Building Scalable Systems](https://alexisglez.netlify.app/blogs/building-scalable-systems)
 - [But... what is this unicode thing](https://alexisglez.netlify.app/blogs/but-what-is-this-unicode-thing)
 
-<br />_Last updated on 10 Sep 2023._<br />
+<br />_Last updated on 17 Sep 2023._<br />
 
 
 ➡️ [More blogs here][my-blogs]
