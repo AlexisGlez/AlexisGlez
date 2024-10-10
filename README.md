@@ -1,6 +1,6 @@
 ### Hi there, I'm AlexisGlez 👋🏻 👨🏻‍💻
 
-[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https%3A%2F%2Falexisglez.netlify.app)][website]
+[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https%3A%2F%2Falexisglez.netlify.com)][website]
 
 I'm a software engineer that loves to learn & try new technologies 💆🏻‍♂️.
 
@@ -14,7 +14,7 @@ Here are some things about myself:
 
 ### Connect with me:
 
-[<img align="left" alt="alexisglez.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="alexisglez.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -76,7 +76,7 @@ Here are some things about myself:
 
 </details>
 
-[website]: https://alexisglez.netlify.app
+[website]: https://alexisglez.netlify.com
 [my-blogs]: https://alexisglez.netlify.app/blogs
 [linkedin]: https://www.linkedin.com/in/alexisgonzalezgomez
 
