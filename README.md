@@ -1,6 +1,6 @@
 ### Hi there, I'm AlexisGlez 👋🏻 👨🏻‍💻
 
-[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=[https%3A%2F%2Falexisglez.netlify.com](https://alexisglez.netlify.app/))][website]
+[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https%3A%2F%2Falexisglez.netlify.com)][website]
 
 I'm a software engineer that loves to learn & try new technologies 💆🏻‍♂️.
 
@@ -62,7 +62,7 @@ Here are some things about myself:
 - [Building Scalable Systems](https://alexisglez.netlify.app/blogs/building-scalable-systems)
 - [But... what is this unicode thing](https://alexisglez.netlify.app/blogs/but-what-is-this-unicode-thing)
 
-<br />_Last updated on 12 Apr 2026._<br />
+<br />_Last updated on 19 Apr 2026._<br />
 
 
 ➡️ [More blogs here][my-blogs]
