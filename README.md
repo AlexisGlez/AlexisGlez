@@ -1,6 +1,6 @@
 ### Hi there, I'm AlexisGlez 👋🏻 👨🏻‍💻
 
-[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https%3A%2F%2Falexisglez.netlify.com)][website]
+[![Website](https://img.shields.io/website?label=MySite&style=for-the-badge&logo=staticman&url=https://alexisglez.netlify.app/)][website]
 
 I'm a software engineer that loves to learn & try new technologies 💆🏻‍♂️.
 
